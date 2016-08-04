@@ -1,0 +1,35 @@
+_repo: Roads-of-Destiny_1646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: ''
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Roads of destiny -- The guardian of the accolade -- The discounters
+  of money -- The enchanted profile -- "Next to reading matter" -- Art and the bronco
+  -- Phoebe -- A doubled-dyed deceiver -- The passing of Black Engle -- A retrieved
+  reformation -- Cherchez la femme -- Friends in San Rosario -- The fourth in Salvador
+  -- The emancipation of Billy -- The enchanted Kiss -- A departmental case -- The
+  renaissance at Charleroi -- On behalf of the management -- Whistling Dick's Christmas
+  stocking -- The halberdier of the little Rheinschloss -- Two renegades -- The lonesome
+  road.
+title: Roads of Destiny
+url: http://www.gutenberg.org/ebooks/1646
